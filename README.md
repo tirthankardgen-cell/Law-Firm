@@ -28,7 +28,7 @@ Import this GitHub repository into Vercel. Select Next.js, retain the repository
 
 Homepage: `src/app/page.tsx`. Practice areas, notes and navigation: `src/lib/content.ts`. Inner pages: `src/app/[section]/page.tsx`. Design tokens and responsive styles: `src/app/globals.css`.
 
-The courtroom hero, Lady Justice artwork, and scales-and-book emblem are original SVG illustrations, not photographs of a real office or official court insignia. The visual identity uses dark timber, aged brass, parchment, Hindi accents, and a Constitution-inspired editorial section. System serif/sans-serif fonts avoid external font requests. The contact page intentionally displays no invented contact details and has no submission form. Advocate credentials are reserved for verified information.
+The hero and Lady Justice section use an AI-generated photographic architectural study stored locally in `public/images/lady-justice-courtroom.png`, served through Next Image. It does not depict a real court or office. The original scales-and-book emblem is not an official insignia. The visual identity uses restrained typography, paper surfaces, Hindi annotations, folio numbers, and fine document rules. Desktop homepage chapters occupy a viewport; mobile and short screens expand naturally for readable content. Inner pages have separate chamber, matter-index, professional-register, reading-room, correspondence, and policy treatments. System serif/sans-serif fonts avoid external font requests. The contact page intentionally displays no invented contact details and has no submission form. Advocate credentials are reserved for verified information.
 
 ## Scope
 
