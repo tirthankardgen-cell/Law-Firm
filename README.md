@@ -33,3 +33,7 @@ Each photographic placement has a distinct generated asset: the homepage uses th
 ## Scope
 
 Includes homepage, chambers, practice directory and six detail pages, advocate placeholder, legal notes and three sample articles, contact, disclaimer, privacy, terms, accessibility, custom 404, responsive navigation, favicon and noindex metadata. CMS, authentication, approval workflow, storage, forms, and migrations are deferred because this is a frontend demo.
+
+## Formal practice presentation
+
+The homepage prioritises the chambers’ identity, professional particulars, and practice directory. Upright headings, charcoal and stone surfaces, ruled information lists, and direct labels replace the earlier promotional copy. Demo disclosures remain visible, and no professional credentials are invented. The opening banner, navigation, sculpture, and actions fit one viewport across desktop and mobile layouts.
